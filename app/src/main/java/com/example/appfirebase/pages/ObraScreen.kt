@@ -45,6 +45,7 @@ fun corPorTipo(tipo: String): Color = when (tipo) {
     else -> ArranhaCeuColor
 }
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun ObraScreen(modifier: Modifier = Modifier, userId: String) {
     val db = FirebaseFirestore.getInstance()
