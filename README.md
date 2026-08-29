@@ -1,5 +1,9 @@
 # appfirebase
 
+## Imagens do banco
+![Texto alternativo](caminho-da-imagem)
+![Texto alternativo](caminho-da-imagem)
+
 ## Tema escolhido
 Grandes Obras de Engenharia Civil — um catálogo de imagens detalhadas de pontes
 estaiadas, barragens e arranha-céus em construção, cadastrado pelo próprio usuário
