@@ -22,3 +22,5 @@ autenticado no app.
 2. Abra no Android Studio
 3. Conecte seu próprio projeto Firebase (Tools > Firebase) ou use o `google-services.json` fornecido
 4. Rode em um emulador ou dispositivo físico
+
+## Link do video
