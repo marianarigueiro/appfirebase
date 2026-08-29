@@ -1,8 +1,8 @@
 # appfirebase
 
 ## Imagens do banco
-![Firestore](imagens/firestore.png)
-![Authentication](imagens/authentication.png)
+![Firestore](imagens/firestore.jpeg)
+![Authentication](imagens/authentication.jpeg)
 
 ## Tema escolhido
 Grandes Obras de Engenharia Civil — um catálogo de imagens detalhadas de pontes
