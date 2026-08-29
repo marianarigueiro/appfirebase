@@ -27,4 +27,4 @@ autenticado no app.
 3. Conecte seu próprio projeto Firebase (Tools > Firebase) ou use o `google-services.json` fornecido
 4. Rode em um emulador ou dispositivo físico
 
-## Link do video
+## [Link do vídeo](https://exemplo.com)
