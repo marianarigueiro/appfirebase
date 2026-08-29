@@ -1,4 +1,4 @@
-# [appfirebase]
+# appfirebase
 
 ## Tema escolhido
 Grandes Obras de Engenharia Civil — um catálogo de imagens detalhadas de pontes
