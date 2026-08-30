@@ -1,8 +1,24 @@
 # appfirebase
 
 ## Imagens do banco
-![Firestore](imagens/firestore.png)
-![Authentication](imagens/authentication.png)
+![Firestore](imagens/firestore.jpeg)
+![Authentication](imagens/authentication.jpeg)
+
+## Imagens do app
+<table>
+  <tr>
+    <td align="center">
+      <img src="./imagens/Home.jpeg" width="200">
+    </td>
+    <td align="center">
+      <img src="./imagens/Atualizar.jpeg" width="200">
+    </td>
+    <td align="center">
+      <img src="./imagens/Cadastro.jpeg" width="200">
+    </td>
+  </tr>
+</table>
+
 
 ## Tema escolhido
 Grandes Obras de Engenharia Civil — um catálogo de imagens detalhadas de pontes
@@ -27,4 +43,4 @@ autenticado no app.
 3. Conecte seu próprio projeto Firebase (Tools > Firebase) ou use o `google-services.json` fornecido
 4. Rode em um emulador ou dispositivo físico
 
-## Link do video
+## [Link do vídeo](https://exemplo.com)
