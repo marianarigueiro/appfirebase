@@ -4,6 +4,22 @@
 ![Firestore](imagens/firestore.jpeg)
 ![Authentication](imagens/authentication.jpeg)
 
+## Imagens do app
+<table>
+  <tr>
+    <td align="center">
+      <img src="./imagens/Home.jpeg" width="200">
+    </td>
+    <td align="center">
+      <img src="./imagens/Atualizar.jpeg" width="200">
+    </td>
+    <td align="center">
+      <img src="./imagens/Cadastro.jpeg" width="200">
+    </td>
+  </tr>
+</table>
+
+
 ## Tema escolhido
 Grandes Obras de Engenharia Civil — um catálogo de imagens detalhadas de pontes
 estaiadas, barragens e arranha-céus em construção, cadastrado pelo próprio usuário
